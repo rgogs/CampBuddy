@@ -11,6 +11,7 @@ Key Features:
 - Responsive design using Bootstrap
 
 Explore the great outdoors with CampBuddy! 🌲
+https://raw.githubusercontent.com/yourusername/yourrepository/main/path/to/image.jpg
 
 #webdevelopment #nodejs #mongodb #bootstrap #passportjs
 
